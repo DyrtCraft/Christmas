@@ -1,0 +1,6 @@
+name: Christmas
+version: 1.0
+author: TheMolkaPL
+description: Specjalny plugin na swieta!
+loadbefore: [DyrtCraftXP]
+main: pl.dyrtcraft.christmas.Christmas
